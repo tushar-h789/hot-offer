@@ -5,6 +5,20 @@
 .buy_now_button{
     ba
 }
-.ornage_bg{
-    background-color: orange; 
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(196, 27, 190);
+}
+.buy_now_button{
+    background-image: linear-gradient(to bottom, rgb(221, 63, 216) 0%, rgb(73, 6, 71) 100% );
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 50px;
 }
